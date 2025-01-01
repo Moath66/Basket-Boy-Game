@@ -17,13 +17,7 @@
 - **User Interface**: Simple and clear UI displaying score and game status.
 - **Replayability**: The game encourages repeated play with increasingly challenging hoops and a high score system.
 
-## Installation Instructions
-
 ### Prerequisites
 - A C++ compiler (e.g., GCC, Clang, or MinGW) to compile and run the game.
 - A basic text editor or an integrated development environment (IDE) like Visual Studio, Code::Blocks, or CLion.
 
-### Setting Up the Game
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/basket-boy-game.git
